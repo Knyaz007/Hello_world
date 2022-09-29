@@ -74,5 +74,13 @@ namespace Contrast
         {
 
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked)
+            checkBox1.BackColor= SystemColors.ControlDark;
+            else
+                checkBox1.BackColor= SystemColors.ControlLight;
+        }
     }
 }
