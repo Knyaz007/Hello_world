@@ -74,5 +74,10 @@ namespace Contrast
         {
 
         }
+
+        private void WorkPicture_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
