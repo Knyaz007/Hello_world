@@ -1,0 +1,40 @@
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\bin\Debug\Contrast.exe
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\bin\Debug\Contrast.pdb
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\Contrast.Form1.resources
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\Contrast.Properties.Resources.resources
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\Contrast.exe
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\Contrast.pdb
+C:\Users\Владислав\Desktop\OpenCV\Contrast\Contrast\obj\x86\Debug\Contrast.ContrastEditing.resources
+F:\Contrast\Contrast\obj\x86\Debug\Contrast.exe
+F:\Contrast\Contrast\obj\x86\Debug\Contrast.pdb
+F:\Contrast\Contrast\bin\Debug\Contrast.exe
+F:\Contrast\Contrast\bin\Debug\Contrast.pdb
+F:\Contrast\Contrast\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Contrast\Contrast\obj\x86\Debug\Contrast.ContrastEditing.resources
+F:\Contrast\Contrast\obj\x86\Debug\Contrast.Form1.resources
+F:\Contrast\Contrast\obj\x86\Debug\Contrast.Properties.Resources.resources
+F:\Contrast\Contrast\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Contrast\Contrast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\Contrast.exe
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\Contrast.pdb
+C:\Users\sicosor\Desktop\Contrast\Contrast\bin\Debug\Contrast.exe
+C:\Users\sicosor\Desktop\Contrast\Contrast\bin\Debug\Contrast.pdb
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\Contrast.ContrastEditing.resources
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\Contrast.Form1.resources
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\Contrast.Properties.Resources.resources
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sicosor\Desktop\Contrast\Contrast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\Новая папка\Contrast\bin\Debug\Contrast.exe
+C:\Users\Admin\Desktop\Новая папка\Contrast\bin\Debug\Contrast.pdb
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.ContrastEditing.resources
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.Form1.resources
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.exe
+C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.pdb
