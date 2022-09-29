@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 
 namespace Contrast
-{
+{// Добавил код сюда 
     public struct RGB_Color
     {
     public RGB_Color(int Red, int Green, int Blue)

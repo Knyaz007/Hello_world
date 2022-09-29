@@ -35,7 +35,7 @@ namespace Contrast
                 WorkPicture.SizeMode = PictureBoxSizeMode.Zoom;
             }
         }
-
+        // Добавил код сюда 
         private void сохранитьToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog SaveImageDialog = new SaveFileDialog();
@@ -68,6 +68,11 @@ namespace Contrast
         private void testToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ChangeImage(Imagebuffer);
+        }
+
+        private void файлToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
