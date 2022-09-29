@@ -38,3 +38,15 @@ C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.csp
 C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.exe
 C:\Users\Admin\Desktop\Новая папка\Contrast\obj\x86\Debug\Contrast.pdb
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\bin\Debug\Contrast.exe.config
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\bin\Debug\Contrast.exe
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\bin\Debug\Contrast.pdb
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.ContrastEditing.resources
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.Form1.resources
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.Properties.Resources.resources
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.exe
+C:\Users\PC\Desktop\study3\group\Hello_world-main\Contrast\obj\x86\Debug\Contrast.pdb
