@@ -46,10 +46,5 @@ namespace Contrast
         {
             Close();
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Text = "Текст для гита"; 
-        }
     }
 }
